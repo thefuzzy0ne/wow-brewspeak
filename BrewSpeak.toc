@@ -1,0 +1,11 @@
+## Interface: 80200
+## Title: BrewSpeak
+## Notes: Gives you a slur, but without the blur.
+## Author: Jrhartley, Azuremyst-EU
+## Version: 3.3.0.0
+## SavedVariables: BrewSpeak_DB
+
+Dongle.lua
+BrewSpeak.lua
+Config.lua
+Config.xml
