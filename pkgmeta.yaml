@@ -1,8 +1,8 @@
 package-as: BrewSpeak
 
-ignore: # Files and directories beginning with a dot (such as .git) are automatically ignored, as is the pgkmeta file itself.
+ignore:
     - README.md
 
-manual-changelog: CHANGELOG.txt
+manual-changelog: CHANGELOG.md
 
 license-output: LICENSE.txt
