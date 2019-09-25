@@ -2,7 +2,7 @@
 ## Title: BrewSpeak
 ## Notes: Gives you a slur, but without the blur.
 ## Author: Jrhartley, Azuremyst-EU
-## Version: 8.2.5.0
+## Version: 8.2.5.1
 ## SavedVariables: BrewSpeak_DB
 
 Dongle.lua

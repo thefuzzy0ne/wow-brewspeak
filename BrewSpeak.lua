@@ -30,7 +30,7 @@ local function BrewSpeakFilter(text)
 				-- This is an attempt at making the loop a little faster.
 				-- The whole if statement won't be executed if it fails before the end.
 			else
-				if random(10) <= 4 then
+				if random(10) <= 6 then
 					text[i] = text[i].."h"
 				end
 			end
